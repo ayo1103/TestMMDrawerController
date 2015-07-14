@@ -13,6 +13,7 @@
 		3B2A29141B55508D00BB34D4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B2A29131B55508D00BB34D4 /* Images.xcassets */; };
 		3B2A29171B55508D00BB34D4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B2A29151B55508D00BB34D4 /* LaunchScreen.xib */; };
 		3B2A29231B55508D00BB34D4 /* TestMMDrawerControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2A29221B55508D00BB34D4 /* TestMMDrawerControllerTests.swift */; };
+		3B2A292D1B55520A00BB34D4 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 3B2A292C1B55520A00BB34D4 /* Podfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		3B2A291C1B55508D00BB34D4 /* TestMMDrawerControllerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestMMDrawerControllerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B2A29211B55508D00BB34D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3B2A29221B55508D00BB34D4 /* TestMMDrawerControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestMMDrawerControllerTests.swift; sourceTree = "<group>"; };
+		3B2A292C1B55520A00BB34D4 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 		3B2A28FE1B55508C00BB34D4 = {
 			isa = PBXGroup;
 			children = (
+				3B2A292C1B55520A00BB34D4 /* Podfile */,
 				3B2A29091B55508D00BB34D4 /* TestMMDrawerController */,
 				3B2A291F1B55508D00BB34D4 /* TestMMDrawerControllerTests */,
 				3B2A29081B55508D00BB34D4 /* Products */,
@@ -194,6 +197,7 @@
 			files = (
 				3B2A29121B55508D00BB34D4 /* Main.storyboard in Resources */,
 				3B2A29171B55508D00BB34D4 /* LaunchScreen.xib in Resources */,
+				3B2A292D1B55520A00BB34D4 /* Podfile in Resources */,
 				3B2A29141B55508D00BB34D4 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
